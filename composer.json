@@ -1,0 +1,14 @@
+{
+    "name": "mareg/test-bundle",
+    "description": "Test Bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marek Matulka",
+            "email": "marek@matulka.net"
+        }
+    ],
+    "require": {
+
+    }
+}
