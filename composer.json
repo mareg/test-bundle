@@ -12,6 +12,7 @@
     "require": {
         "jms/serializer-bundle" : "0.11.0"
     },
+    "minimum-stability" : "dev",
 	"autoload" : {
 		"psr-0" : {
 			"Mareg" : ""
