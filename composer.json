@@ -1,5 +1,6 @@
 {
     "name": "mareg/test-bundle",
+    "type": "symfony-bundle"
     "description": "Test Bundle",
     "version" : "1.0.0",
     "license": "MIT",
