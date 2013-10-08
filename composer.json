@@ -1,6 +1,7 @@
 {
     "name": "mareg/test-bundle",
     "description": "Test Bundle",
+    "version" : "1.0.0"
     "license": "MIT",
     "authors": [
         {
@@ -9,12 +10,11 @@
         }
     ],
     "require": {
-        "jms/serializer-bundle" : "0.11.0",
+        "jms/serializer-bundle" : "0.11.0"
     },
 	"autoload" : {
 		"psr-0" : {
 			"Mareg" : ""
 		}
-	},
-
+	}
 }
