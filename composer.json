@@ -9,6 +9,12 @@
         }
     ],
     "require": {
+        "jms/serializer-bundle" : "0.11.0",
+    },
+	"autoload" : {
+		"psr-0" : {
+			"Mareg" : ""
+		}
+	},
 
-    }
 }
